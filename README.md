@@ -21,12 +21,7 @@ Prerequisites
 MATLAB R2018b or later
 
 ## Usage
-Clone this repository:
-
-bash
-git clone https://github.com/yourusername/portfolio-delta-hedging.git
-cd portfolio-delta-hedging
-Open delta_hedge_simulation.m in MATLAB.
+Copy and paste the delta_hedge_simulation.m code in MATLAB.
 
 Run the script to generate results and figures.
 
