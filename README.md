@@ -21,7 +21,7 @@ Prerequisites
 MATLAB R2018b or later
 
 ## Usage
-Copy and paste the delta_hedge_simulation.m code in MATLAB.
+Copy and paste the Delta_Hedging_Model.m code in MATLAB.
 
 Run the script to generate results and figures.
 
