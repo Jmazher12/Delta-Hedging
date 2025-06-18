@@ -16,11 +16,11 @@ Generates histograms to visualize P&L and option value distributions
 
 Fully commented code for clarity and learning
 
-Getting Started
+## Getting Started
 Prerequisites
 MATLAB R2018b or later
 
-Usage
+## Usage
 Clone this repository:
 
 bash
@@ -30,7 +30,7 @@ Open delta_hedge_simulation.m in MATLAB.
 
 Run the script to generate results and figures.
 
-Customization
+## Customization
 Change strike prices, volatilities, or other parameters at the top of the script to explore different scenarios.
 
 Adjust the number of Monte Carlo simulations by modifying the N parameter.
